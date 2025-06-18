@@ -1,0 +1,4 @@
+gymnasium
+ufal.pybox2d
+jupyterlab
+matplotlib
